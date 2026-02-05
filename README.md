@@ -13,3 +13,7 @@ I got my bachelors degree in Pyschology and my masters degree in Human Factors E
 3. camping ⛺
 4. reading 📖
 5. cheese tasting 🧀 
+### Leadership style
+1. laissez-faire leadership: allow autonomus actions, collaborative approach. reduces micromanagement by delegating tasks to employees
+2. democratic leadership: consider input from employees, collaborative and practical decision making
+3. authoritative leadership: set clear expectations and guidelines, provide reasoning for the rules, foster communication between parties, encourage responcibility
